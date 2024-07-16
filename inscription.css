@@ -1,0 +1,17 @@
+body {
+    color: #fef1df;
+}
+
+section {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.h1 {
+    margin-top: 265px;
+}
